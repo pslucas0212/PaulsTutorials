@@ -1,2 +1,1 @@
-# PaulsTutorials
-Paul's Tutorials Content on Github
+# Paul's Tutorial Content on Github
